@@ -1,0 +1,5 @@
+Git adalah sebuah version control yang digunakan untuk berkolaborasi antara programmer / developer dalam mengaturÂ source codeÂ dari sebuah
+aplikasi /program. Meskipun belakangan git banyak juga digunakan bahkan oleh designer dalam mengorganisirÂ graphicÂ yang mereka buat, ya 
+anda tidak salah baca. Bagaimana mungkin designer menggunakan git untuk me-manageÂ file grafik? maaf ya, tidak dibahas pada artikel ini.
+Jadi saya menyimpulkan ya. dan kalau suatu waktu kita menginginkan  balik lagi ke kode sebelumnya, kamu bisa liat Commit yang mana dan 
+revert ke kode tersebut. jadi tidak bakal lost track lagi
